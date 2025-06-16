@@ -16,7 +16,7 @@ cd nome_do_app
 
 **1. pubspec.yaml**
 ```bash
-# Copie o pubspec.yaml do app_base e substitua o seu
+# Copie as dependencias
 ```
 
 ### ✅ **COPIAR PASTA COMPLETA:**
