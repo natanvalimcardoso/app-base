@@ -5,5 +5,17 @@
   "change_language": "言語を変更",
   "continue": "続行",
   "language_selector": "言語セレクター",
-  "current_language": "日本語"
+  "current_language": "日本語",
+  "home": "ホーム",
+  "home_welcome": "ホームへようこそ！",
+  "home_message": "アプリケーションのメイン画面に到達しました。",
+  "back": "戻る",
+  "dark_theme": "ダークテーマ",
+  "light_theme": "ライトテーマ",
+  "theme": "テーマ",
+  "language": "言語",
+  "settings": "設定",
+  "error_loading": "初期設定の読み込みエラー",
+  "error_language": "言語変更エラー",
+  "try_again": "再試行"
 } 

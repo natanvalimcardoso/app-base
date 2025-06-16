@@ -5,5 +5,17 @@
   "change_language": "Change Language",
   "continue": "Continue",
   "language_selector": "Language Selector",
-  "current_language": "English"
+  "current_language": "English",
+  "home": "Home",
+  "home_welcome": "Welcome to Home!",
+  "home_message": "You have reached the main screen of the application.",
+  "back": "Back",
+  "dark_theme": "Dark Theme",
+  "light_theme": "Light Theme",
+  "theme": "Theme",
+  "language": "Language",
+  "settings": "Settings",
+  "error_loading": "Error loading initial settings",
+  "error_language": "Error changing language",
+  "try_again": "Try again"
 } 

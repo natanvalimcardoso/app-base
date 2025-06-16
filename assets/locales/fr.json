@@ -1,9 +1,21 @@
 {
-  "app_name": "App de Base",
+  "app_name": "App Base",
   "welcome_title": "Bienvenue",
   "welcome_message": "Bienvenue dans notre application ! Veuillez sélectionner votre langue préférée et continuer.",
-  "change_language": "Changer de Langue",
+  "change_language": "Changer de langue",
   "continue": "Continuer",
-  "language_selector": "Sélecteur de Langue",
-  "current_language": "Français"
+  "language_selector": "Sélecteur de langue",
+  "current_language": "Français",
+  "home": "Accueil",
+  "home_welcome": "Bienvenue à l'accueil !",
+  "home_message": "Vous avez atteint l'écran principal de l'application.",
+  "back": "Retour",
+  "dark_theme": "Thème sombre",
+  "light_theme": "Thème clair",
+  "theme": "Thème",
+  "language": "Langue",
+  "settings": "Paramètres",
+  "error_loading": "Erreur lors du chargement des paramètres initiaux",
+  "error_language": "Erreur lors du changement de langue",
+  "try_again": "Réessayer"
 } 

@@ -1,9 +1,21 @@
 {
   "app_name": "Basis App",
   "welcome_title": "Willkommen",
-  "welcome_message": "Willkommen zu unserer Anwendung! Bitte wählen Sie Ihre bevorzugte Sprache und fahren Sie fort.",
+  "welcome_message": "Willkommen in unserer Anwendung! Bitte wählen Sie Ihre bevorzugte Sprache und fahren Sie fort.",
   "change_language": "Sprache ändern",
   "continue": "Fortfahren",
   "language_selector": "Sprachauswahl",
-  "current_language": "Deutsch"
+  "current_language": "Deutsch",
+  "home": "Startseite",
+  "home_welcome": "Willkommen auf der Startseite!",
+  "home_message": "Sie haben den Hauptbildschirm der Anwendung erreicht.",
+  "back": "Zurück",
+  "dark_theme": "Dunkles Design",
+  "light_theme": "Helles Design",
+  "theme": "Design",
+  "language": "Sprache",
+  "settings": "Einstellungen",
+  "error_loading": "Fehler beim Laden der Anfangseinstellungen",
+  "error_language": "Fehler beim Ändern der Sprache",
+  "try_again": "Erneut versuchen"
 } 

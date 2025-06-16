@@ -1,9 +1,21 @@
 {
-  "app_name": "기본 앱",
+  "app_name": "베이스 앱",
   "welcome_title": "환영합니다",
-  "welcome_message": "저희 애플리케이션에 오신 것을 환영합니다! 선호하는 언어를 선택하고 계속하세요.",
+  "welcome_message": "저희 애플리케이션에 오신 것을 환영합니다! 원하시는 언어를 선택하고 계속하세요.",
   "change_language": "언어 변경",
   "continue": "계속",
   "language_selector": "언어 선택기",
-  "current_language": "한국어"
+  "current_language": "한국어",
+  "home": "홈",
+  "home_welcome": "홈에 오신 것을 환영합니다!",
+  "home_message": "애플리케이션의 메인 화면에 도달했습니다.",
+  "back": "뒤로",
+  "dark_theme": "다크 테마",
+  "light_theme": "라이트 테마",
+  "theme": "테마",
+  "language": "언어",
+  "settings": "설정",
+  "error_loading": "초기 설정 로딩 오류",
+  "error_language": "언어 변경 오류",
+  "try_again": "다시 시도"
 } 

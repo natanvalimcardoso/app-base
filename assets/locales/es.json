@@ -5,5 +5,17 @@
   "change_language": "Cambiar Idioma",
   "continue": "Continuar",
   "language_selector": "Selector de Idioma",
-  "current_language": "Español"
+  "current_language": "Español",
+  "home": "Inicio",
+  "home_welcome": "¡Bienvenido al Inicio!",
+  "home_message": "Has llegado a la pantalla principal de la aplicación.",
+  "back": "Volver",
+  "dark_theme": "Tema Oscuro",
+  "light_theme": "Tema Claro",
+  "theme": "Tema",
+  "language": "Idioma",
+  "settings": "Configuraciones",
+  "error_loading": "Error al cargar configuraciones iniciales",
+  "error_language": "Error al cambiar idioma",
+  "try_again": "Intentar de nuevo"
 } 

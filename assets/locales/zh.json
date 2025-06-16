@@ -1,9 +1,21 @@
 {
-  "app_name": "基礎應用",
-  "welcome_title": "歡迎",
-  "welcome_message": "歡迎使用我們的應用程式！請選擇您的偏好語言並繼續。",
-  "change_language": "更改語言",
-  "continue": "繼續",
-  "language_selector": "語言選擇器",
-  "current_language": "中文（繁體）"
+  "app_name": "基础应用",
+  "welcome_title": "欢迎",
+  "welcome_message": "欢迎使用我们的应用程序！请选择您的首选语言并继续。",
+  "change_language": "更改语言",
+  "continue": "继续",
+  "language_selector": "语言选择器",
+  "current_language": "中文 (繁體)",
+  "home": "首页",
+  "home_welcome": "欢迎来到主页！",
+  "home_message": "您已到达应用程序的主屏幕。",
+  "back": "返回",
+  "dark_theme": "深色主题",
+  "light_theme": "浅色主题",
+  "theme": "主题",
+  "language": "语言",
+  "settings": "设置",
+  "error_loading": "加载初始设置时出错",
+  "error_language": "更改语言时出错",
+  "try_again": "重试"
 } 
