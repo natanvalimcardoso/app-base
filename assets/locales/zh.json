@@ -1,0 +1,9 @@
+{
+  "app_name": "基礎應用",
+  "welcome_title": "歡迎",
+  "welcome_message": "歡迎使用我們的應用程式！請選擇您的偏好語言並繼續。",
+  "change_language": "更改語言",
+  "continue": "繼續",
+  "language_selector": "語言選擇器",
+  "current_language": "中文（繁體）"
+} 

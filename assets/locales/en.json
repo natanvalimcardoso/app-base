@@ -1,0 +1,9 @@
+{
+  "app_name": "Base App",
+  "welcome_title": "Welcome",
+  "welcome_message": "Welcome to our application! Please select your preferred language and continue.",
+  "change_language": "Change Language",
+  "continue": "Continue",
+  "language_selector": "Language Selector",
+  "current_language": "English"
+} 

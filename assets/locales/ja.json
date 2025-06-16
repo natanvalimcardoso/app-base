@@ -1,0 +1,9 @@
+{
+  "app_name": "ベースアプリ",
+  "welcome_title": "ようこそ",
+  "welcome_message": "私たちのアプリケーションへようこそ！お好みの言語を選択して続行してください。",
+  "change_language": "言語を変更",
+  "continue": "続行",
+  "language_selector": "言語セレクター",
+  "current_language": "日本語"
+} 

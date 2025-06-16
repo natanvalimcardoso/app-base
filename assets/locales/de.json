@@ -1,0 +1,9 @@
+{
+  "app_name": "Basis App",
+  "welcome_title": "Willkommen",
+  "welcome_message": "Willkommen zu unserer Anwendung! Bitte wählen Sie Ihre bevorzugte Sprache und fahren Sie fort.",
+  "change_language": "Sprache ändern",
+  "continue": "Fortfahren",
+  "language_selector": "Sprachauswahl",
+  "current_language": "Deutsch"
+} 
